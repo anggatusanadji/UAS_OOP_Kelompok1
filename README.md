@@ -1,8 +1,12 @@
 # UAS_OOP_Kelompok1
 Aplikasi pencatatan peminjaman buku di perpustakaan.
 
+### Versi Aplikasi
+- Versi netbeans yang digunakan pada project ini adalah versi 8.2
+- Versi JDK yang digunakan yaitu JDK 15.0.1
+
 ### Library yang dipakai
-- JCalendar sudah saya sertakan diatas atau bisa didownload [disini](http://www.java2s.com/Code/Jar/j/Downloadjcalendar14jar.htm "JCalendar")
+- JCalendar 1.4 sudah saya sertakan diatas atau bisa didownload [disini](http://www.java2s.com/Code/Jar/j/Downloadjcalendar14jar.htm "JCalendar")
 
 ### Data Kelompok
 - Angga Tusan Adji (21101005)
